@@ -1,4 +1,4 @@
-# 
+# Avanzado breakout trading bot preajustes para Mac OS | Principal breakout trading bot preajustes para PC Windows. Con comercio de futuros y ejecución de órdenes límite — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
